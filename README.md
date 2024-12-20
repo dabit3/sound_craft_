@@ -1,4 +1,8 @@
-# Eliza 🤖
+# sound_craft_
+
+Codebase from soundcraft (personalized) agent demo.
+
+### Forked from Eliza 🤖
 
 <div align="center">
   <img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
